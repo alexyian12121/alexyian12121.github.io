@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
 :root{
-    --green:#27ae60;
+    --green:RGB(236, 106, 55);
 }
 *{
     font-family: 'Nunito', sans-serif;
