@@ -127,8 +127,8 @@ header .navbar a:hover{
 }
 
 .home .content img{
-    height: 25rem;
-    width: 25rem;
+    height: 30rem;
+    width: 30rem;
     border-radius: 50%;
     object-fit: cover;
     border: 1rem solid var(--green);
